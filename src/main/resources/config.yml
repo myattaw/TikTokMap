@@ -1,0 +1,10 @@
+settings:
+  url: "https://tiktok-chat-reader.zerody.one/"
+  username: "username-here"
+  background: "https://i.imgur.com/MuORsHn.png"
+
+messages:
+  like: "Sent likes to the host"
+  share: "Has shared the live!"
+  gift: "Has gifted x{count} {gift}!"
+  member: "Has joined the live!"

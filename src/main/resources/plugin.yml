@@ -1,0 +1,9 @@
+name: TikTokMap
+version: '${project.version}'
+main: me.rages.tiktokmap.TikTokMap
+api-version: 1.18
+authors: [ Rages ]
+description: Display TikTok livestream chat on a map.
+commands:
+  tiktokmap:
+    description: Give player a TikTok Map
